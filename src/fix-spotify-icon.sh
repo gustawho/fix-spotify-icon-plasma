@@ -44,15 +44,15 @@ main() {
 
     msg "Replacing the icons..."
 #    cp spotify/spotify_icon.ico resources_old/_linux/spotify_icon.ico
-    cp spotify/spotify-linux-16.png resources_old/_linux/spotify-linux-16.png
-    cp spotify/spotify-linux-22.png resources_old/_linux/spotify-linux-22.png
-    cp spotify/spotify-linux-24.png resources_old/_linux/spotify-linux-24.png
-    cp spotify/spotify-linux-32.png resources_old/_linux/spotify-linux-32.png
-    cp spotify/spotify-linux-48.png resources_old/_linux/spotify-linux-48.png
-    cp spotify/spotify-linux-64.png resources_old/_linux/spotify-linux-64.png
-    cp spotify/spotify-linux-128.png resources_old/_linux/spotify-linux-128.png
-    cp spotify/spotify-linux-256.png resources_old/_linux/spotify-linux-256.png
-    cp spotify/spotify-linux-512.png resources_old/_linux/spotify-linux-512.png
+    cp spotify-linux-16.png resources_old/_linux/spotify-linux-16.png
+    cp spotify-linux-22.png resources_old/_linux/spotify-linux-22.png
+    cp spotify-linux-24.png resources_old/_linux/spotify-linux-24.png
+    cp spotify-linux-32.png resources_old/_linux/spotify-linux-32.png
+    cp spotify-linux-48.png resources_old/_linux/spotify-linux-48.png
+    cp spotify-linux-64.png resources_old/_linux/spotify-linux-64.png
+    cp spotify-linux-128.png resources_old/_linux/spotify-linux-128.png
+    cp spotify-linux-256.png resources_old/_linux/spotify-linux-256.png
+    cp spotify-linux-512.png resources_old/_linux/spotify-linux-512.png
 
     msg "Packaging resources.zip..."
     cd resources_old/
