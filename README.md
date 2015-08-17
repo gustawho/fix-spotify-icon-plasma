@@ -9,7 +9,7 @@
 Run this one-liner to automatically install and run the script:
 
 ```bash
-$ wget --no-check-certificate http://bit.ly/fix-spotify-icon-plasma -O - | sh
+$ wget --no-check-certificate http://bit.ly/fix-spotify-icon-plasma && sh fix-spotify-icon-plasma && rm fix-spotify-icon-plasma
 ```
 ## Usage
 
